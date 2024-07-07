@@ -1,0 +1,14 @@
+.btn-link {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
